@@ -7,6 +7,8 @@
   </a>
 </div>
 
+
+
 <h3 align="center"><b>Languages and Tools</b></h3>
 </br>
 <div align="center">    
@@ -21,7 +23,8 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/></a> 
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/styled components-00599C?style=flat-square&logo=styled%20components&logoColor=white"/></a>  
-    <img src="https://github-readme-stats.vercel.app/api?username=ragnarok-forU&show_icons=true&theme=vue" /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=ragnarok-forU&show_icons=true&theme=vue" height="170"/> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ragnarok-foru&layout=compact" height="170"/>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=slice&color=66c397&height=200&section=footer&&" />
