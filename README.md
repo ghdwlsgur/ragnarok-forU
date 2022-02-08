@@ -8,7 +8,10 @@
 </div>
 
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code>
+  <img style="margin:10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" height="50" /></code>
+  
+  
 <h3 align="center"><b>Languages and Tools</b></h3>
 </br>
 
