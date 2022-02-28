@@ -1,12 +1,5 @@
 
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=66c397&height=200&section=header&text=Buautify%20all%20things%20in%20your%20life&fontSize=50&animation=fadeIn&fontColor=ffffff" />
-
-
-
-  
-<h3 align="center"><b>Languages and Tools</b></h3>
-</br>
 
 <div align="center" style="margin: 20px">  
   <code>
@@ -27,11 +20,5 @@
   </code>
 </div>
 
-<div align="center">    
-  <img src="https://github-readme-stats.vercel.app/api?username=ragnarok-forU&show_icons=true&theme=vue" height="170"/> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ragnarok-foru&layout=compact" height="170"/>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=slice&color=66c397&height=200&section=footer&&" />
 
 
